@@ -24,45 +24,13 @@ It can process prompts and perform actions based on user input.
 
 📦 5. Installation Steps
 ## 📦 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/shvignesh/ai-agent-project.git
-cd AI-Agent-Project
-
-
-Install dependencies:
-
 pip install -r requirements.txt
-
-
----
-
-## ▶ **6. How to Run**
-
-```markdown
-## ▶ Run the Project
-
-```bash
+▶ Run the Project
 python app.py
-
-
----
-
-## 🔑 **7. API Key Setup (If Needed)**
-
-```markdown
-## 🔑 API Key Setup
-
-Windows (CMD):
-
-```bash
+🔑 API Key Setup (If Needed)
+Windows (CMD)
 set GOOGLE_API_KEY=your_api_key
-
-
-Linux / Mac:
-
+Linux / Mac
 export GOOGLE_API_KEY=your_api_key
-
+Clone the repository:
 
