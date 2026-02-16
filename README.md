@@ -28,7 +28,7 @@ It can process prompts and perform actions based on user input.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Agent-Project.git
+git clone https://github.com/shvignesh/ai-agent-project.git
 cd AI-Agent-Project
 
 
