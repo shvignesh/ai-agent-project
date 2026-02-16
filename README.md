@@ -64,3 +64,5 @@ set GOOGLE_API_KEY=your_api_key
 Linux / Mac:
 
 export GOOGLE_API_KEY=your_api_key
+
+
